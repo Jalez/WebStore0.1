@@ -1,2 +1,1 @@
-# Webpages
-Shellcode for webpages
+# Webpage projects
