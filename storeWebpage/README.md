@@ -1,10 +1,10 @@
 =======
 # Group 
-
-Member1:  Jaako Rajala, jaakko.rajala@tuni.fi, 428219, 
+Made by:
+Jaako Rajala, jaakko.rajala@tuni.fi, 
 responsible for: Project development/planning/implementation
 
-Member2:  Jin Luo, jin.luo@tuni.fi, 245096, 
+Jin Luo, jin.luo@tuni.fi, 
 responsible for: project planning, project implementation 
 
 
