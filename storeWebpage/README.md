@@ -1,6 +1,6 @@
 =======
-# Group 
-Made by:
+# Authors:
+
 Jaako Rajala, jaakko.rajala@tuni.fi, 
 responsible for: Project development/planning/implementation
 
