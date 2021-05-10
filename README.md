@@ -1,3 +1,3 @@
-# Webpage projects
+# Store webpage. 
 
-Currently contains some project work I've done regarding webpages. 
+Contains a simple working webpage for a store. 
